@@ -1,7 +1,7 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *_Florentia Teye_*
 Here is the place to tell the story of your experience of the Data Analytics Program.
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
+
 
 ## Let me introduce Myself
 With a background in Mathematics education and some freelance experience in some creative circles (art,writing and designing), **_Florentia Teye_**  ventured into teaching Mathematics at the pre-tertiary level. To start a career in Tech, Data Analysis become my best choice because it was the perfect build up on my mathematics competencies
@@ -61,7 +61,7 @@ I don't have a dream company but i know i would I would love to be part of  a Ma
 </table>
 
 ## Career Accelerator Projects' Summary Table
-`Please add text here...`
+Have a look at some of my Career Accelerator Projects
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
