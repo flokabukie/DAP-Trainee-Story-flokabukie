@@ -4,26 +4,26 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 **Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
 ## Let me introduce Myself
-`With a background in Mathematics education and some freelance experience in some creative circles (art,writing and designing), **_Florentia Teye_**  ventured into teaching Mathematics at the pre-tertiary level. To start a career in Tech, Data Analysis become my best choice because it was the perfect build up on my mathematics competencies'
+With a background in Mathematics education and some freelance experience in some creative circles (art,writing and designing), **_Florentia Teye_**  ventured into teaching Mathematics at the pre-tertiary level. To start a career in Tech, Data Analysis become my best choice because it was the perfect build up on my mathematics competencies
 
 ## How would I describe my experience in the data analytics program ? 
-`My experience in the data analytics program has been nothing short of exceeding my expectation. It was overwhelming at first because it felt like solving a puzzle, but after going through the entire programme,I have realized that each piece was important for the picture that i am gleefully staring at now (my accomplishments)`
+My experience in the data analytics program has been nothing short of exceeding my expectation. It was overwhelming at first because it felt like solving a puzzle, but after going through the entire programme,I have realized that each piece was important for the picture that i am gleefully staring at now (my accomplishments)
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`The Career Accelerator phase has helped shape my mindset in my transitioning and has been some confidence in me. The guidance received has sharpened my soft skills and helped me better clean up my CV and upgrade my professional abilities `
+The Career Accelerator phase has helped shape my mindset in my transitioning and has been some confidence in me. The guidance received has sharpened my soft skills and helped me better clean up my CV and upgrade my professional abilities 
 
 ## What enticed me to join the Data Analytics Program?
-`...Money. Most definetly money (Yes, i said it 😆) and also the passion to solve problems, not only on boards (constantly finding x)
-but in real life scenarios.`
+...Money. Most definetly money (Yes, i said it 😆) and also the passion to solve problems, not only on boards (constantly finding x)
+but in real life scenarios.
 
 ## What would I say my progress in tech has been since joining the program ? 
-`For someone who had no experience in tech, i can say i know a lot now. At least, i know how print("Hello, World!")😆. On a more serious note, I have amassed a pool of knowledge in tech which was not there before.`
+For someone who had no experience in tech, i can say i know a lot now. At least, i know how print("Hello, World!")😆. On a more serious note, I have amassed a pool of knowledge in tech which was not there before.
 
 ## What are my plans for the future ?
-`Wow. Plans for the future. I have a lot because the endless possibilities that have been opened to me. First of all, I would like to be a data scientist and use my skills to build brand success `
+Wow. Plans for the future. I have a lot because the endless possibilities that have been opened to me. First of all, I would like to be a data scientist and use my skills to build business success 
 
 ## What is my dream company or role ?
-`Please add text here...`
+I don't have a dream company but i know i would I would love to be part of  a Marketing Analytics Team.
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
@@ -31,16 +31,16 @@ but in real life scenarios.`
 <tbody>
 <tr>
 <td>#</td>
-<td>Project's Name</td>
+<td>Project Name</td>
 <td>Description</td>
 <td>Additional</td>
 </tr>
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
+<td> LinkedIn Power BI</td>
+<td>Conducting an analysis in Power BI of people, their locations and sales made.  </td>
+<td>This project allowed us exercise our knowledge in Power BI (Dashboard creation, visualization of data and drawing insights)</td>
 </tr>
 
 <tr>
