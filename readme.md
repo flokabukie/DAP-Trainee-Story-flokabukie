@@ -10,7 +10,7 @@ With a background in Mathematics education and some freelance experience in some
 My experience in the data analytics program has been nothing short of exceeding my expectation. It was overwhelming at first because it felt like solving a puzzle, but after going through the entire programme,I have realized that each piece was important for the picture that i am gleefully staring at now (my accomplishments)
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-The Career Accelerator phase has helped shape my mindset in my transitioning and has been some confidence in me. The guidance received has sharpened my soft skills and helped me better clean up my CV and upgrade my professional abilities 
+The Career Accelerator phase has helped shape my mindset in my transitioning and has built some confidence in me. The guidance received has sharpened my soft skills and helped me better clean up my CV and upgrade my professional abilities 
 
 ## What enticed me to join the Data Analytics Program?
 ...Money. Most definetly money (Yes, i said it 😆) and also the passion to solve problems, not only on boards (constantly finding x)
