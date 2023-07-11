@@ -1,5 +1,5 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *_Florentia Teye_*
-Here is the place to tell the story of your experience of the Data Analytics Program.
+ My experience in the Data Analytics Program.
 
 
 
@@ -71,77 +71,38 @@ Have a look at some of my Career Accelerator Projects
 <td>Article</td>
 <td>Deployed App</td>
 <td>App Repository</td>
-<td>Dev Repository</td>
-</tr>
+
+
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
-</tr>
+<td>Sentiment Analysis </td>
+<td>Covid-19 vaccines Twitter sentiment analysis</td>
+<td>https://medium.com/@florentia.teye/covid-19-twitter-sentiment-analysis-c5a649219dd9</td>
+<td>https://huggingface.co/spaces/flokabukie/Twitter-gradio-sentiment-analysis-app</td>
+<td>https://github.com/flokabukie/Sentiment-Analysis</td>
+
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Machine Learning with FastAPI</td>
+<td> Sepsis status prediction with FastAPI</td>
+<td>https://medium.com/@florentia.teye/sepsis-status-prediction-with-fast-api-bdb04bf01c76 </td>
+<td> https://huggingface.co/spaces/flokabukie/Sepsis-status-prediction-fast-api </td>
+<td>https://github.com/flokabukie/Sepsis-Status-Prediction-with-Fast-API </td>
+
 </tr>
 
-<tr>
-<td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
 
-<tr>
-<td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
 
 <tr>
 <td>Capstsone</td>
+<td> Customer Churn Prediction</td>
+<td> Developing a Machine Learning Model to predict customer churn in an African Telecommunications company</td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>https://huggingface.co/spaces/flokabukie/Customer-Churn-Prediction-Gradio-App </td>
+<td>https://github.com/flokabukie/Azubian-Customer-Churn-Prediction-Challenge </td>
+
 </tr>
 
 </tbody>
@@ -150,51 +111,51 @@ Have a look at some of my Career Accelerator Projects
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-    `Reply here please.`
+   I would advice them to stay committed and understand that it is a forever learning space and so they must be open and willing to learn and practice.
 
 1. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+   The quality of teaching was great because there was a plethora of resources and ready-to-help Teaching Operations Team.
 
 1. What did you like most about the program? 
 
-    `Reply here please.`
+    I was a big fan of working with a Cross-Team.
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+    `The lectures are very engaging and does not miss a beat in achieving their lesson objectives.
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+    The best thing about lectures was that when you miss them, there are recorded sessions at your disposal. 
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+   The program is very flexible because it is part time.
 
 1. Do the projects worked on help you test your ability / skills? 
 
-    `Reply here please.`
+    The projects worked on helped use all the skills and tools used in the training phase.
 
 1. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+    I think since it is a packed course, the duration should be lengthened (12 months)
 
 1. What do you think about the fees structure? 
 
-    `Reply here please.`
+     The fees structure is fair.
 
 1. Would you say Azubi Has Changed your life ? 
 
-    `Reply here please.`
+    Absolutely, Azubi has changed my life
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    Oh yes, I have.
 
 
 ## My Contacts
-`Please add your contacts here...`
+Reach out and let's have a chat
 
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+[![Alt text](image-1.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
+
