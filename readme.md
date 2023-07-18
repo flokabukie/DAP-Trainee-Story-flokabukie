@@ -38,23 +38,31 @@ I don't have a dream company but i know i would I would love to be part of  a Ma
 
 <tr>
 <td>1</td>
-<td> LinkedIn Power BI</td>
-<td>Conducting an analysis in Power BI of people, their locations and sales made.  </td>
+<td>Power BI
+(https://app.powerbi.com/links/X5Fb41BQQW?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
+</td>
+<td>Conducting a Sales  analysis of a company in Power BI </td>
 <td>This project allowed us exercise our knowledge in Power BI (Dashboard creation, visualization of data and drawing insights)</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Caeser cypher Encryption </td>
+<td>An algorithm to encrypt and decrypt a company's internal
+messages using Caesar's Cipher.
+ </td>
+<td> The IT team needs to comply with the companies' policies on data privacy, 
+your boss tasks you to write an algorithm to encrypt and decrypt its internal
+messages using Caesar's Cipher.
+</td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Databases </td>
+<td> SQL</td>
+<td>Using SQL to answer questions about a money
+transfer business operated by a company called Wave.  </td>
 </tr>
 
 </tbody>
